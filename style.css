@@ -1,0 +1,31 @@
+.box{
+
+    white-space: 60%;
+
+    margin: auto;
+
+    display: flex;
+
+ 
+
+}
+
+ 
+
+.user_list{
+
+    width: 30%;
+
+    background-color: bisque;
+
+ 
+
+}
+
+.message{
+
+    width: 70%;
+
+    background-color: aqua;
+
+}
