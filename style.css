@@ -29,3 +29,21 @@
     background-color: aqua;
 
 }
+
+
+.expediteur{
+width: 200px;
+border: solid 2px;
+margin : 5px 0px 5px 200px;
+background-color: aquamarine;
+}
+
+
+.recepteur{
+width: 200px;
+border: solid 2px;
+margin:  5px 2px;
+background-color: cadetblue;
+
+
+}
